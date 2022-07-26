@@ -9,4 +9,10 @@ while true do
 	wait(2)
 	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("motherfucker bitch fucking nigger", "All")	
 	wait(2)
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GAY NIGGER ", "All")
+	wait(2)
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("GAY BE LIKE HITLER MOTHERFUCKER DICK", "All")
+	wait(2)
+	game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("FUCKING BITCH PENIS VAGINA SIEG HEIL HITLER", "All")
+	wait(2)
 end
